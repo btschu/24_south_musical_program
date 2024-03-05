@@ -9,7 +9,7 @@
   /* colors */
   --primary-color: #f7e93b;
   --black-color: #000000;
-  --gray-color: #393939;
+  --gray-color: #414141;
   --white-color: #ffffff;
 }
 
@@ -731,7 +731,7 @@ section {
 # Program Section
 --------------------------------------------------------------*/
 #program {
-  width: 50%;
+  width: 100%;
   margin: 0 auto;
 }
 
@@ -769,9 +769,9 @@ section {
 --------------------------------------------------------------*/
 
 #footer {
-  background: var(--black-color);
+  /* background: var(--black-color); */
   border-top: 1px solid #37332a;
-  padding: 60px 20px 80px 20px;
+  padding: 60px 20px 130px 20px;
   line-height: 1;
 }
 
