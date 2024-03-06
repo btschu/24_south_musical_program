@@ -388,7 +388,7 @@ a:hover {
 #hero {
   width: 100%;
   height: 100svh;
-  background: url("../img/hero-bg.jpg") center center;
+  background: url("../img/hero-bg.JPG") bottom center;
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
@@ -697,7 +697,7 @@ section {
 .students .box {
   padding: 20px;
   text-align: center;
-  background-color: #414141;
+  background-color: #000000;
   border-radius: 9px;
   margin: 15px 5px;
   /* box-shadow: inset 0 3px 6px rgba(0,0,0,0.16), 0 4px 6px rgba(0,0,0,0.45) !important; */
@@ -731,7 +731,7 @@ section {
 # Program Section
 --------------------------------------------------------------*/
 #program {
-  width: 100%;
+  width: 50%;
   margin: 0 auto;
 }
 
@@ -759,7 +759,7 @@ section {
   color: rgba(255, 255, 255, 0.5);
 }
 
-@media (max-width: 800px) {
+@media (max-width: 900px) {
   #program {
     width: 100%;
   }
